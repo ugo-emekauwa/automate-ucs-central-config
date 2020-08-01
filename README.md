@@ -12,6 +12,8 @@ A modified version of the script in this repository is a part of the automation 
 1. _Cisco UCS Central 2.0 v1_
 2. _Cisco UCS Central 2.0 Lab v1_
 
+The lab steps for _Cisco UCS Central 2.0 Lab v1_ in the 76-page **Basic Lab Guide** are automated by the **automate_ucs_central_config.ps1** script.
+
 Cisco dCloud is available at [https://dcloud.cisco.com](https://dcloud.cisco.com), where product demonstrations and labs can be found in the Catalog.
 
 ## Author:
